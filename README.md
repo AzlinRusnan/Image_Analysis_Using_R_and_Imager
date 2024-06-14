@@ -1,1 +1,1 @@
-# Image_Analysis_Using_R_and_Imager
+# <div align="center">Image Analysis Using R and Imager</div>
